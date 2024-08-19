@@ -1,2 +1,45 @@
-test git file
+
+If you enter:
+
+Access creates a field with a data type of:
+
+John
+
+Short Text
+
+http://www.contoso.com
+
+You can use any valid Internet protocol prefix. For example, http://, https://, and mailto: are valid prefixes.
+
+Hyperlink
+
+1
+
+Number, Long Integer
+
+50,000
+
+Number, Long Integer
+
+50,000.99
+
+Number, Double
+
+50000.389
+
+Number, Double
+
+12/67
+
+The date and time formats recognized are those of your user locale.
+
+Date/Time
+
+December 31, 2016
+
+Date/Time
+
+10:50:23
+
+Date/Time
 
