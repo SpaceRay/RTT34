@@ -34,6 +34,7 @@
   - Detailed notes or explanation
   - Additional information or examples
 
+
 ---
 
 ## *Summary*
